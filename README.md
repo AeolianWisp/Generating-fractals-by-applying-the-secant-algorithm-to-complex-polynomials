@@ -30,5 +30,6 @@ output are imported in the Project2 file.
 
 ## Authors
 
-* Project completed by Thomas Hobro
-* The SetUpFractal(), colourPixel, and SaveFractal() files in 'Project2' were written by professor Khalil Challita of Warwick University
+* Project completed by Thomas Hobro.
+* The SetUpFractal(), colourPixel, and SaveFractal() files in 'Project2' were written by professor Khalil Challita of Warwick University.
+* No code in this project was written by artificial intelligence.
